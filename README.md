@@ -23,5 +23,4 @@ A simple CRUD (Create, Read, Update, Delete) application built using Express.js 
 
 ## How to Run
 1. Clone the repository:
-   ```bash
-   git clone [repository-link]
+   git clone (https://github.com/mohibkhan2001/User-Management-System)
